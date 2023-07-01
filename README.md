@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **rheapinto30/rheapinto30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="badges">
+<!--<div align="center" id="badges">
 <img src="https://komarev.com/ghpvc/?username=rheapinto30&style=flat-square&color=blue" alt=""/>
-</div>
+</div>-->
