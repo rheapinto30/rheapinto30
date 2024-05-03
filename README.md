@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello! 👋
+### It's Rhea here 
 <!--
 **rheapinto30/rheapinto30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=rheapinto30&style=flat-square&color=blue" alt=""/>
 </div>-->
 
-<!--
+
 ### Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -32,12 +32,10 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="CSS3" alt="CSS" width="40"  height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="CSS3" alt="CSS" width="40"  height="40"/>&nbsp;
 </div>
--->
 
+## :fire: My Stats :
 
-<!--## :fire: My Stats :-->
-
-<!--<div align="center">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rheapinto30&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -46,4 +44,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheapinto30&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
--->
