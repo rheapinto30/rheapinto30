@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rheapinto30&theme=dark&background=000000)](https://git.io/streak-stats)
+<!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rheapinto30&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Rhea's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheapinto30&hide=stars&show_icons=true&theme=radical&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhea's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheapinto30&hide=stars&show_icons=true&theme=radical&background=000000)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheapinto30&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
